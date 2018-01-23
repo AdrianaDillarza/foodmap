@@ -1,0 +1,55 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  /*font-family: 'Questrial', sans-serif;*/
+  font-family: 'Unica One', cursive;
+  background-color: #3593B1;
+  color: white;
+}
+
+.title {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 100px;
+  padding: 0;
+}
+
+.gif {
+  margin: auto;
+  margin-bottom: 100px;
+  text-align: center;
+  margin-left: 35%;
+  width: 30%;
+}
+
+.content2 {
+  background-color: #ea9d04;
+}
+
+.map {
+  padding-top: 50px;
+  margin: auto;
+  text-align: center;
+}
+
+nav {
+  background-color: #373b47;
+}
+
+.title2 {
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+  font-size: 2em;
+  color: white;
+}
+
+.row {
+  margin-left: 220px;
+}
+
+.input-field {
+  background-color: white;
+  color: blue;
+  padding-left: 100px;
+  font-family: 'Unica One', cursive;
+  font-size: 1.5em;
+}
